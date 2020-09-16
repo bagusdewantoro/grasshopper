@@ -1,1 +1,1 @@
-Some experiment for daily design method problem using algorithm approach.
+Some experiments for daily architectural design method problem using algorithm approach.
